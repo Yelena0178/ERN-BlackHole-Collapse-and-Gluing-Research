@@ -1,3 +1,0 @@
-Notion GitHub MCP connection write test.
-This file was created on an isolated test branch.
-No existing files or main branch were modified.
